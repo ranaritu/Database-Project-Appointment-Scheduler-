@@ -1,0 +1,52 @@
+body{
+    background-color: #aacbff;
+}
+
+.formContainer{
+    width: 500px;
+    margin: 0 auto;
+    background-color: white;
+    border: 1px solid;
+}
+
+.formContainer .formHeading{
+    text-align: center;   
+}
+
+.formContainer .formContent{
+    font-size: 16px;
+    padding: 20px 0;
+    border-top: 1px solid;
+}
+
+.formContainer .appointmentContent{
+    font-size: 16px;
+    margin: 30px;
+}
+
+.formContainer .fieldContainer{
+    margin: 5px;
+    padding: 5px;
+}
+
+.formContainer .fieldContainer label{
+    display: inline-block;
+    width: 200px;
+    vertical-align: middle;
+}
+
+.formContainer .fieldContainer input,
+.formContainer .fieldContainer select{
+    width: 270px;
+    height: 25px;
+    vertical-align: middle;
+}
+
+.formContainer .fieldContainer.checkbox-field input{
+    width: auto;
+    vertical-align: middle;
+}
+
+.formContainer .center-field{
+    text-align: center;
+}

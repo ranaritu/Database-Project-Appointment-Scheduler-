@@ -1,0 +1,1094 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a80fbfdf-ca89-461d-b8da-36161839778e" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/EPS-main.php" afterPath="$PROJECT_DIR$/app/src/EPS-main.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/newAppointment.php" afterPath="$PROJECT_DIR$/app/src/newAppointment.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/profile.php" afterPath="$PROJECT_DIR$/app/src/profile.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/register.php" afterPath="$PROJECT_DIR$/app/src/register.php" />
+    </list>
+    <ignored path="untitled1.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="untitled1" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf>
+          <file leaf-file-name="newAppointment.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/src/newAppointment.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="2867">
+                  <caret line="213" column="97" selection-start-line="213" selection-start-column="97" selection-end-line="213" selection-end-column="97" />
+                  <folding>
+                    <element signature="n#style#0;n#a#0;n#td#2;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#span#0;n#a#0;n#td#2;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <marker date="1481251841000" expanded="true" signature="5666:5700" ph="SELECT `id`,... " />
+                    <marker date="1481251841000" expanded="true" signature="5666:5701" ph="SELECT `id`,... Calendar" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="EPS-main.php" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/app/src/EPS-main.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1905">
+                  <caret line="133" column="0" selection-start-line="133" selection-start-column="0" selection-end-line="133" selection-end-column="0" />
+                  <folding>
+                    <marker date="1481253369000" expanded="false" signature="2735:2834" ph="..." />
+                    <marker date="1481253369000" expanded="false" signature="3176:3277" ph="..." />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="register.php" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/app/src/register.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1230">
+                  <caret line="82" column="33" selection-start-line="82" selection-start-column="33" selection-end-line="82" selection-end-column="33" />
+                  <folding>
+                    <marker date="1481253045000" expanded="true" signature="1211:1267" ph="SELECT userE... users" />
+                    <marker date="1481253045000" expanded="true" signature="2107:2274" ph="INSERT INTO users... " />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/newAppointment.html" />
+        <option value="$PROJECT_DIR$/newUser.php" />
+        <option value="$PROJECT_DIR$/getAppointments.html" />
+        <option value="/Applications/XAMPP/xamppfiles/htdocs/541-project/getAppointments.php" />
+        <option value="$PROJECT_DIR$/getAppointmentTimes.html" />
+        <option value="$PROJECT_DIR$/getAppiontmentTimes.php" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/f79a775f-81c1-44f0-a4c5-ea4b47ed56cc/console.sql" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/9b5869ca-a7bf-4689-951d-dfb700388184/console.sql" />
+        <option value="dbroutine:/82fd53c7/9b5869ca-a7bf-4689-951d-dfb700388184/541-project.add_appointment" />
+        <option value="/Applications/XAMPP/xamppfiles/htdocs/541-project/newAppointment.php" />
+        <option value="/Applications/XAMPP/xamppfiles/htdocs/541-project/getAppointmentTimes.php" />
+        <option value="$PROJECT_DIR$/getAppointmentTimes.php" />
+        <option value="$PROJECT_DIR$/getAppointments.php" />
+        <option value="$PROJECT_DIR$/newAppointment.php" />
+        <option value="$PROJECT_DIR$/remainingFiles/calendar.php" />
+        <option value="$PROJECT_DIR$/remainingFiles/Dbconnect.php" />
+        <option value="$PROJECT_DIR$/remainingFiles/Register.php" />
+        <option value="$PROJECT_DIR$/web/html/sign-up.html" />
+        <option value="$PROJECT_DIR$/remainingFiles/Index.php" />
+        <option value="$PROJECT_DIR$/remainingFiles/login.php" />
+        <option value="$PROJECT_DIR$/web/html/EPS-main.htm" />
+        <option value="$PROJECT_DIR$/web/html/EPS-main.html" />
+        <option value="$PROJECT_DIR$/web/html/EPS-main.php" />
+        <option value="$PROJECT_DIR$/app/src/cal2.php" />
+        <option value="$PROJECT_DIR$/web/css/calendar.css" />
+        <option value="/Applications/XAMPP/xamppfiles/htdocs/541-project/app/src/getAppointments.php" />
+        <option value="$PROJECT_DIR$/app/src/newUser.php" />
+        <option value="/Applications/XAMPP/xamppfiles/htdocs/541-project/app/src/checkAppointmentTimes.php" />
+        <option value="/Applications/XAMPP/xamppfiles/htdocs/541-project/app/src/newAppointment.php" />
+        <option value="/Applications/XAMPP/xamppfiles/htdocs/541-project/app/src/checkAvailableTimes.php" />
+        <option value="$PROJECT_DIR$/web/html/addAvailRule.html" />
+        <option value="$PROJECT_DIR$/web/html/addAvialRule.html" />
+        <option value="$PROJECT_DIR$/app/sql/users.sql" />
+        <option value="$PROJECT_DIR$/web/html/newAppointment.html" />
+        <option value="$PROJECT_DIR$/app/src/getAppointments.php" />
+        <option value="$PROJECT_DIR$/web/css/style.css" />
+        <option value="$PROJECT_DIR$/app/src/add_mon_fri_rule.php" />
+        <option value="$PROJECT_DIR$/app/src/calendar.php" />
+        <option value="$PROJECT_DIR$/app/src/checkAppointmentTimes.php" />
+        <option value="$PROJECT_DIR$/app/src/checkAvailableTimes.php" />
+        <option value="$PROJECT_DIR$/app/src/checkExclusiveTimes.php" />
+        <option value="$PROJECT_DIR$/app/src/Dbconnect.php" />
+        <option value="$PROJECT_DIR$/app/src/drawCalendar.php" />
+        <option value="$PROJECT_DIR$/app/src/index.php" />
+        <option value="$PROJECT_DIR$/app/src/login.php" />
+        <option value="$PROJECT_DIR$/app/src/logout.php" />
+        <option value="$PROJECT_DIR$/app/src/newCalendar.php" />
+        <option value="$PROJECT_DIR$/app/src/profile.php" />
+        <option value="$PROJECT_DIR$/app/src/newAppointment.php" />
+        <option value="$PROJECT_DIR$/app/src/register.php" />
+        <option value="$PROJECT_DIR$/app/src/EPS-main.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpDebugGeneral" break_at_first_line="true" />
+  <component name="PhpServers">
+    <servers>
+      <server host="localhost" id="2d9281f7-8d4e-439a-8bc6-a494f8bca613" name="Local Debug" use_path_mappings="true">
+        <path_mappings>
+          <mapping local-root="$PROJECT_DIR$/app/src/EPS-main.php" remote-root="/Applications/XAMPP/xamppfiles/htdocs/541-project/app/src/EPS-main.php" />
+          <mapping local-root="$PROJECT_DIR$/app/src/add_mon_fri_rule.php" remote-root="/Applications/XAMPP/xamppfiles/htdocs/541-project/app/src/add_mon_fri_rule.php" />
+          <mapping local-root="$PROJECT_DIR$/app/src/checkAppointmentTimes.php" remote-root="/Applications/XAMPP/xamppfiles/htdocs/541-project/app/src/checkAppointmentTimes.php" />
+          <mapping local-root="$PROJECT_DIR$/app/src/checkAvailableTimes.php" remote-root="/Applications/XAMPP/xamppfiles/htdocs/541-project/app/src/checkAvailableTimes.php" />
+          <mapping local-root="$PROJECT_DIR$/app/src/checkExclusiveTimes.php" remote-root="/Applications/XAMPP/xamppfiles/htdocs/541-project/app/src/checkExclusiveTimes.php" />
+          <mapping local-root="$PROJECT_DIR$/app/src/getAppointments.php" remote-root="/Applications/XAMPP/xamppfiles/htdocs/541-project/app/src/getAppointments.php" />
+          <mapping local-root="$PROJECT_DIR$/app/src/index.php" remote-root="/Applications/XAMPP/xamppfiles/htdocs/541-project/app/src/index.php" />
+          <mapping local-root="$PROJECT_DIR$/app/src/logout.php" remote-root="/Applications/XAMPP/xamppfiles/htdocs/541-project/app/src/logout.php" />
+          <mapping local-root="$PROJECT_DIR$/app/src/newAppointment.php" remote-root="/Applications/XAMPP/xamppfiles/htdocs/541-project/app/src/newAppointment.php" />
+          <mapping local-root="$PROJECT_DIR$/app/src/newCalendar.php" remote-root="/Applications/XAMPP/xamppfiles/htdocs/541-project/app/src/newCalendar.php" />
+          <mapping local-root="$PROJECT_DIR$/app/src/register.php" remote-root="/Applications/XAMPP/xamppfiles/htdocs/541-project/app/src/register.php" />
+        </path_mappings>
+      </server>
+    </servers>
+  </component>
+  <component name="PhpWebServerValidation" path_to_validation_script="/Applications/XAMPP/xamppfiles/htdocs" selected_validation_type="LOCAL" web_path_to_validation_script="http://127.0.0.1:80" />
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 5.6" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="13" />
+    <option name="width" value="1680" />
+    <option name="height" value="1024" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="541-project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="541-project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="541-project" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="541-project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="541-project" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="541-project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="541-project" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="541-project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="541-project" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php.debug" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="/Applications/XAMPP/xamppfiles/htdocs/541-project" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="FullScreen" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/sql" />
+      <recent name="$PROJECT_DIR$/web/html" />
+      <recent name="$PROJECT_DIR$/app/src" />
+      <recent name="$PROJECT_DIR$/web/css" />
+      <recent name="$PROJECT_DIR$/app/src/" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.newUser.php">
+    <configuration default="false" name="getName.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost/541-project/getName.php">
+      <method />
+    </configuration>
+    <configuration default="false" name="newUser.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/app/src/newUser.php">
+      <method />
+    </configuration>
+    <configuration default="false" name="newUser.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost/541-project/app/src/newUser.php">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="false" name="Unnamed" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" document_root="/Applications/XAMPP/xamppfiles" port="8080">
+      <method />
+    </configuration>
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="PHP Built-in Web Server.Unnamed" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.getName.php" />
+      <item index="2" class="java.lang.String" itemvalue="PHP Script.newUser.php" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.newUser.php" />
+    </list>
+    <recent_temporary>
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.newUser.php" />
+        <item index="1" class="java.lang.String" itemvalue="PHP Script.newUser.php" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.getName.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a80fbfdf-ca89-461d-b8da-36161839778e" name="Default" comment="" />
+      <created>1478630077115</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1478630077115</updated>
+      <workItem from="1478630078513" duration="3913000" />
+      <workItem from="1478635967950" duration="608000" />
+      <workItem from="1478805821229" duration="1378000" />
+      <workItem from="1478813106973" duration="6957000" />
+      <workItem from="1478893758235" duration="240000" />
+      <workItem from="1478997031088" duration="4271000" />
+      <workItem from="1479002078250" duration="2567000" />
+      <workItem from="1479072245417" duration="9986000" />
+      <workItem from="1479418968572" duration="3012000" />
+      <workItem from="1479431808166" duration="48000" />
+      <workItem from="1479494303275" duration="64000" />
+      <workItem from="1479497825244" duration="822000" />
+      <workItem from="1480428466660" duration="4435000" />
+      <workItem from="1480452075398" duration="684000" />
+      <workItem from="1480452818663" duration="38000" />
+      <workItem from="1480452860113" duration="689000" />
+      <workItem from="1480605119519" duration="201000" />
+      <workItem from="1480605494411" duration="13376000" />
+      <workItem from="1480622593079" duration="137000" />
+      <workItem from="1480697990083" duration="192000" />
+      <workItem from="1480715516995" duration="1258000" />
+      <workItem from="1480734488991" duration="1537000" />
+      <workItem from="1480885282319" duration="13637000" />
+      <workItem from="1481033936838" duration="22570000" />
+      <workItem from="1481072000061" duration="4339000" />
+      <workItem from="1481153322352" duration="220000" />
+      <workItem from="1481157186246" duration="4839000" />
+      <workItem from="1481212653254" duration="12257000" />
+      <workItem from="1481233019020" duration="10677000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1480452997795</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1480452997795</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Rearranged project structure">
+      <created>1480607410143</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1480607410143</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Calendar has been refactored into HTML, CSS, and PHP">
+      <created>1480611341447</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1480611341447</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Verified the sprocs for getting appointments and appointment times are both working">
+      <created>1480622727793</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1480622727793</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Verified the sprocs for getting appointments and appointment times are both working">
+      <created>1480698174511</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1480698174511</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Double-checked, and images are working again">
+      <created>1480715698691</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1480715698691</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Time overlap checking is working correctly agian.">
+      <created>1480716306034</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1480716306034</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Added calendars to the schema, and the new appointment html/php files">
+      <created>1480743309350</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1480743309350</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Recurring events are mostly working.">
+      <created>1480900142344</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1480900142344</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Marking calendar times as available is working">
+      <created>1480905096199</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1480905096199</updated>
+    </task>
+    <task id="LOCAL-00011" summary="newUser.php now uses a stored procedure">
+      <created>1481037847139</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1481037847139</updated>
+    </task>
+    <task id="LOCAL-00012" summary="recurrence rule made with a store procedure">
+      <created>1481042773200</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1481042773200</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Multiple calendars working">
+      <created>1481048347416</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1481048347416</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Calendars can optionally limit appointments to one user in a span of time">
+      <created>1481061870758</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1481061870758</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Incoporated new getAppointments.php">
+      <created>1481075967382</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1481075967382</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Incoporated new getAppointments.php">
+      <created>1481153335791</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1481153335791</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Updated SQL schema">
+      <created>1481157696074</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1481157696074</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Sessions are now working">
+      <created>1481164575041</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1481164575041</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Sessions are now working">
+      <created>1481164719685</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1481164719685</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Logout link added to ESP-main.php, and is working">
+      <created>1481213728487</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1481213728487</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Removed user id field from newAppointment.php">
+      <created>1481213983263</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1481213983263</updated>
+    </task>
+    <task id="LOCAL-00022" summary="newAppointment.php now gets calendars from the database">
+      <created>1481216596460</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1481216596460</updated>
+    </task>
+    <task id="LOCAL-00023" summary="getAppointments.php now working">
+      <created>1481217035675</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1481217035676</updated>
+    </task>
+    <task id="LOCAL-00024" summary="getAppointments displays message if no appointments found.">
+      <created>1481217949322</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1481217949322</updated>
+    </task>
+    <task id="LOCAL-00025" summary="getAppointments shows calendar name, not id">
+      <created>1481218624383</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1481218624383</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Back link added to new appointment page">
+      <created>1481218746447</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1481218746447</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Added user name to the Session. Name is now displayed on screens when user is logged in.">
+      <created>1481220074660</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1481220074660</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Error messages display when a time is invalid.">
+      <created>1481223155820</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1481223155820</updated>
+    </task>
+    <task id="LOCAL-00029" summary="newAppointment.php will display SQL errors from the db">
+      <created>1481224168067</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1481224168067</updated>
+    </task>
+    <task id="LOCAL-00030" summary="pausing for class, working on breaking out of the addAppointments checks">
+      <created>1481227002997</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1481227002997</updated>
+    </task>
+    <task id="LOCAL-00031" summary="newCalendar.php is created and working">
+      <created>1481235958787</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1481235958787</updated>
+    </task>
+    <task id="LOCAL-00032" summary="newCalendar.php has the option of creating  default M-F 5-9 availability">
+      <created>1481239641509</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1481239641509</updated>
+    </task>
+    <task id="LOCAL-00033" summary="getAppointments.php page now has CSS styling">
+      <created>1481250096428</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1481250096428</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Merge branch 'master' of https://github.iu.edu/bupp/541-project&#10;&#10;# Conflicts:&#10;#&#9;app/src/profile.php&#10;">
+      <created>1481250419462</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1481250419462</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="124952000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="13" width="1680" height="1024" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15811966" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32914045" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31632653" sideWeight="0.502442" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12942614" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32959184" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23689727" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32914045" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32844576" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32760474" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3249476" sideWeight="0.497558" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="REST Client" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35630497" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32939914" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32975295" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added calendars to the schema, and the new appointment html/php files" />
+    <MESSAGE value="Recurring events are mostly working." />
+    <MESSAGE value="Marking calendar times as available is working" />
+    <MESSAGE value="newUser.php now uses a stored procedure" />
+    <MESSAGE value="recurrence rule made with a store procedure" />
+    <MESSAGE value="Multiple calendars working" />
+    <MESSAGE value="Calendars can optionally limit appointments to one user in a span of time" />
+    <MESSAGE value="Incoporated new getAppointments.php" />
+    <MESSAGE value="Updated SQL schema" />
+    <MESSAGE value="Sessions are now working" />
+    <MESSAGE value="Logout link added to ESP-main.php, and is working" />
+    <MESSAGE value="Removed user id field from newAppointment.php" />
+    <MESSAGE value="newAppointment.php now gets calendars from the database" />
+    <MESSAGE value="getAppointments.php now working" />
+    <MESSAGE value="getAppointments displays message if no appointments found." />
+    <MESSAGE value="getAppointments shows calendar name, not id" />
+    <MESSAGE value="Back link added to new appointment page" />
+    <MESSAGE value="Added user name to the Session. Name is now displayed on screens when user is logged in." />
+    <MESSAGE value="Error messages display when a time is invalid." />
+    <MESSAGE value="newAppointment.php will display SQL errors from the db" />
+    <MESSAGE value="pausing for class, working on breaking out of the addAppointments checks" />
+    <MESSAGE value="newCalendar.php is created and working" />
+    <MESSAGE value="newCalendar.php has the option of creating  default M-F 5-9 availability" />
+    <MESSAGE value="getAppointments.php page now has CSS styling" />
+    <MESSAGE value="Merge branch 'master' of https://github.iu.edu/bupp/541-project&#10;&#10;# Conflicts:&#10;#&#9;app/src/profile.php&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of https://github.iu.edu/bupp/541-project&#10;&#10;# Conflicts:&#10;#&#9;app/src/profile.php&#10;" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file:///Applications/XAMPP/xamppfiles/htdocs/541-project/app/src/newAppointment.php</url>
+          <line>52</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file:///Applications/XAMPP/xamppfiles/htdocs/541-project/app/src/checkAvailableTimes.php</url>
+          <line>15</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/app/src/register.php</url>
+          <line>77</line>
+          <option name="timeStamp" value="145" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/app/src/register.php</url>
+          <line>76</line>
+          <option name="timeStamp" value="146" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="147" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file:///Applications/XAMPP/xamppfiles/htdocs/541-project/getName.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/XAMPP/xamppfiles/htdocs/541-project/getAppointments.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/getName.php" />
+    <entry file="file://$PROJECT_DIR$/getAppiontmentTimes.php" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/f5016e76-40a8-4256-893d-8b6b48b0c4fe/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/f79a775f-81c1-44f0-a4c5-ea4b47ed56cc/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/12888bd1-c0df-4153-851b-1cd05c26247e/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/82fd53c7/9b5869ca-a7bf-4689-951d-dfb700388184/541-project.Appointment" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/9b5869ca-a7bf-4689-951d-dfb700388184/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbroutine:/82fd53c7/9b5869ca-a7bf-4689-951d-dfb700388184/541-project.add_appointment" />
+    <entry file="file:///Applications/XAMPP/xamppfiles/htdocs/541-project/newUser.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/XAMPP/xamppfiles/htdocs/541-project/newAppointment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="885">
+          <caret line="59" column="26" selection-start-line="59" selection-start-column="26" selection-end-line="59" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/XAMPP/xamppfiles/htdocs/541-project/getAppointmentTimes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/getAppointmentTimes.html" />
+    <entry file="file://$PROJECT_DIR$/getAppointmentTimes.php" />
+    <entry file="file://$PROJECT_DIR$/form.html" />
+    <entry file="file://$PROJECT_DIR$/test.php" />
+    <entry file="file://$PROJECT_DIR$/web/images/s1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/css/calendar.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="975">
+          <caret line="65" column="0" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/XAMPP/xamppfiles/htdocs/541-project/app/src/getAppointments.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="32" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/XAMPP/xamppfiles/htdocs/541-project/app/src/checkAppointmentTimes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/XAMPP/xamppfiles/htdocs/541-project/app/src/newAppointment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="53" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/XAMPP/xamppfiles/htdocs/541-project/app/src/checkAvailableTimes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/html/addAvailRule.html" />
+    <entry file="file://$PROJECT_DIR$/web/html/addAvialRule.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/html/old_newAppointment.html" />
+    <entry file="file://$PROJECT_DIR$/web/html/old_getAppointments.html" />
+    <entry file="file://$PROJECT_DIR$/web/html/getAppointments.html" />
+    <entry file="file://$PROJECT_DIR$/web/html/newAppointment.html" />
+    <entry file="file://$PROJECT_DIR$/web/html/sign-up.html" />
+    <entry file="file://$PROJECT_DIR$/app/sql/users.sql" />
+    <entry file="file://$PROJECT_DIR$/app/sql/541-project.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1005">
+          <caret line="15" column="65" selection-start-line="15" selection-start-column="65" selection-end-line="15" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/newUser.php" />
+    <entry file="file://$PROJECT_DIR$/web/html/newUserForm.html" />
+    <entry file="file://$PROJECT_DIR$/web/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/add_mon_fri_rule.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="7" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/calendar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="89" selection-start-line="9" selection-start-column="83" selection-end-line="9" selection-end-column="89" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#1;n#body#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/checkAppointmentTimes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="11" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/checkExclusiveTimes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="23" column="44" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/Dbconnect.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/drawCalendar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="21" column="4" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/getAppointments.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="75" column="11" selection-start-line="75" selection-start-column="11" selection-end-line="75" selection-end-column="11" />
+          <folding>
+            <marker date="1481249627000" expanded="true" signature="1718:1728" ph="..." />
+            <marker date="1481249627000" expanded="true" signature="1718:2015" ph="..." />
+            <marker date="1481249627000" expanded="true" signature="1718:2042" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="66" selection-start-line="2" selection-start-column="66" selection-end-line="2" selection-end-column="66" />
+          <folding>
+            <marker date="1481250049000" expanded="true" signature="1148:1230" ph="SELECT userE... users" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/logout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/newCalendar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="25" column="6" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/profile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="51" column="21" selection-start-line="51" selection-start-column="20" selection-end-line="51" selection-end-column="21" />
+          <folding>
+            <marker date="1481250384000" expanded="true" signature="1255:1344" ph="SELECT userI... users" />
+            <marker date="1481250384000" expanded="true" signature="1255:1345" ph="SELECT userI... users" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/checkAvailableTimes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1230">
+          <caret line="82" column="33" selection-start-line="82" selection-start-column="33" selection-end-line="82" selection-end-column="33" />
+          <folding>
+            <marker date="1481253045000" expanded="true" signature="1211:1267" ph="SELECT userE... users" />
+            <marker date="1481253045000" expanded="true" signature="2107:2274" ph="INSERT INTO users... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/newAppointment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2867">
+          <caret line="213" column="97" selection-start-line="213" selection-start-column="97" selection-end-line="213" selection-end-column="97" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#td#2;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#a#0;n#td#2;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1481251841000" expanded="true" signature="5666:5700" ph="SELECT `id`,... " />
+            <marker date="1481251841000" expanded="true" signature="5666:5701" ph="SELECT `id`,... Calendar" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/EPS-main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1905">
+          <caret line="133" column="0" selection-start-line="133" selection-start-column="0" selection-end-line="133" selection-end-column="0" />
+          <folding>
+            <marker date="1481253369000" expanded="false" signature="2735:2834" ph="..." />
+            <marker date="1481253369000" expanded="false" signature="3176:3277" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
